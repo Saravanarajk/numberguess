@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/numberguess/static/css/main.56bc1b40.chunk.css",
+    "main.js": "/numberguess/static/js/main.4ff24292.chunk.js",
+    "main.js.map": "/numberguess/static/js/main.4ff24292.chunk.js.map",
+    "runtime-main.js": "/numberguess/static/js/runtime-main.2c124da8.js",
+    "runtime-main.js.map": "/numberguess/static/js/runtime-main.2c124da8.js.map",
+    "static/js/2.1ac08fd9.chunk.js": "/numberguess/static/js/2.1ac08fd9.chunk.js",
+    "static/js/2.1ac08fd9.chunk.js.map": "/numberguess/static/js/2.1ac08fd9.chunk.js.map",
+    "index.html": "/numberguess/index.html",
+    "static/css/main.56bc1b40.chunk.css.map": "/numberguess/static/css/main.56bc1b40.chunk.css.map",
+    "static/js/2.1ac08fd9.chunk.js.LICENSE.txt": "/numberguess/static/js/2.1ac08fd9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c124da8.js",
+    "static/js/2.1ac08fd9.chunk.js",
+    "static/css/main.56bc1b40.chunk.css",
+    "static/js/main.4ff24292.chunk.js"
+  ]
+}
